@@ -1,2 +1,4 @@
 # Region_Wise_Sales_Analysis
-Sales Analysis with Windows Function  
+In this case study, we will dive into sales analysis using window functions in MySQL. We have two tables: **`products`** and **`sales`**. The **`products`** table stores information about various products, including the product ID, name, and category. The **`sales`** table contains data related to sales transactions, including the sale ID, product ID, region, sale date, quantity, and revenue.
+
+Our objective is to gain insights into the sales performance by applying window functions to perform advanced calculations and aggregations on specific partitions or windows of data. We will explore concepts such as calculating cumulative revenue, ranking products within categories, analyzing revenue differences between sales, identifying top-performing regions, and more.
