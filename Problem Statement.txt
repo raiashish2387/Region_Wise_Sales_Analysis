@@ -1,0 +1,7 @@
+## Problem Statement
+
+1. Retrieve the sales revenue for each product, along with the maximum revenue achieved for each product across all sales.
+2. Calculate the average revenue for each product, considering only the three most recent sales for each product.
+3. Calculate the difference in revenue between each sale and the previous sale for each product, sorted by product and sale date.
+4. Retrieve the sales revenue for each product, along with the cumulative revenue for each product over time.
+5. Rank the sales regions based on the total revenue generated, and display the top three regions along with their respective total revenue.
